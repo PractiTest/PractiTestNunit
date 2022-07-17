@@ -1,5 +1,3 @@
-[# PractiTestNunit
-
 An example of how to run BDD testing with automation using Selenium WebDriver and PractiTest.   This example is showing .Net C#. 
 This example was created for a demonstration film that can be found [here](https://www.youtube.com/watch?v=wBntAx7-Jzs). 
 
