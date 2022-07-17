@@ -1,4 +1,4 @@
-# PractiTestNunit
+[# PractiTestNunit
 
 An example of how to run BDD testing with automation using Selenium WebDriver and PractiTest.   This example is showing .Net C#. 
 This example was created for a demonstration film that can be found [here](https://www.youtube.com/watch?v=wBntAx7-Jzs). 
@@ -10,10 +10,10 @@ Pre-required steps:
 2. Get the Project ID (from Project Settings) and Author ID  
 
 The workflow is showing how to record your Selenium #c results, using Rest API to complete the following steps: 
-1. Create Test from API as explained here,   
-2. Create Test Set from API as explained here
-3. Associate Test & Test Set from API to Create Test Instance as explained here
-4. Execute automated test - Create Test Run as explained here
+1. Create Test from API [as explained here](https://www.practitest.com/api-v2/#create-a-test)
+2. Create Test Set from API [as explained here](https://www.practitest.com/api-v2/#create-a-testset)
+3. Associate Test & Test Set from API to Create Test Instance [as explained here](https://www.practitest.com/api-v2/#create-an-instance)
+4. Execute automated test - Create Test Run [as explained here](https://www.practitest.com/api-v2/#create-a-run-automated-test)
 5. Test execution complete 
 
 
